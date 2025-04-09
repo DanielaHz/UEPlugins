@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CleanMaster.cpp.obj": [
+			"CleanMaster.gen.cpp.obj",
+			"CleanMaster.init.gen.cpp.obj",
+			"CleanMasterBase.gen.cpp.obj",
+			"CleanMasterSettings.gen.cpp.obj",
+			"CleanMasterWidget.gen.cpp.obj",
+			"CleanMaster.cpp.obj",
+			"CleanMasterBase.cpp.obj",
+			"CleanMasterCommands.cpp.obj",
+			"CleanMasterModule.cpp.obj",
+			"CleanMasterSettings.cpp.obj",
+			"CleanMasterStyle.cpp.obj",
+			"CleanMasterWidget.cpp.obj"
+		]
+	}
+}
